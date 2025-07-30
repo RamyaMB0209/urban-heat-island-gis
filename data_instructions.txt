@@ -1,0 +1,14 @@
+Urban Heat Island (UHI) Data Instructions
+
+This project requires a GeoTIFF file containing average daytime Land Surface Temperature (LST) for Bengaluru (2022),
+which needs to be downloaded from Google Earth Engine (GEE).
+
+Steps:
+1. Go to https://code.earthengine.google.com/
+2. Open the script "UHI_Bengaluru_2022.js" from this project folder.
+3. Click RUN to load the dataset.
+4. Go to the TASKS tab (right panel) → Click RUN to export GeoTIFF to your Google Drive.
+5. Download the GeoTIFF file (e.g., Bengaluru_LST_2022.tif) and place it in this project folder before running `uhi_analysis.py`.
+
+Note:
+This analysis uses a rectangular 30 km bounding box around Bengaluru instead of exact city boundaries.
