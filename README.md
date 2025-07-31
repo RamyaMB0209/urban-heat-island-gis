@@ -78,4 +78,4 @@ python uhi_analysis.py
 ---
 
 ## 📜 License
-© 2025 [Your Name]. This project is open-source for learning and demonstration purposes. Please provide proper credit if you reuse this code.
+© 2025 [Ramya MB]. This project is open-source for learning and demonstration purposes. Please provide proper credit if you reuse this code.
